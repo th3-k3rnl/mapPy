@@ -3,6 +3,7 @@
 ## Best Practice
 
 ### Code Style
+Using Black extension in VS Code
 
 ### Release Process
 
