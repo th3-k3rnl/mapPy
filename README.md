@@ -1,5 +1,5 @@
 # mapPy
-![Draft Logo](assets/colourful-map-white-backgroun_1639-4225.avif)
+![Draft Logo](assets/world-map.png)
 
 ## What is mapPy?
 A video game where you guess the capital for any country on Planet Earth. Each player takes turns to guess. If the previous player gets the correct captial, then they can choose the region of Planet Earth the next player is challenged to.
