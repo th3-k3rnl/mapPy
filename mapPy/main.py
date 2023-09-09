@@ -23,6 +23,11 @@ while running:
 
     # Window visual render happens here
     screen.fill("white")
+
+    water_texture = pygame.image.load("assets/water_texture.jpg")
+    scaled_water_texture = pygame.transform.scale(water_texture, (WINDOW_WIDTH, WINDOW_HEIGHT))
+    screen.blit(scaled_water_texture, (0, 0))
+
     map = pygame.image.load("assets/world-map.png")
     scaledMap = pygame.transform.scale(map, (WINDOW_WIDTH, WINDOW_HEIGHT))
     screen.blit(scaledMap, (0, 0))
