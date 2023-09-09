@@ -16,3 +16,6 @@ I'm basing the structure for this game project off of `The Hitchhiker's Guide to
 
 ### Music
 Thinking of something relaxed, almost like you are seated in the waiting area of a posh hotel.
+
+### Menu
+[YouTube Video](https://www.youtube.com/watch?app=desktop&v=GMBqjxcKogA&ab_channel=baraltech) showing how to create a simple menu for a game.
